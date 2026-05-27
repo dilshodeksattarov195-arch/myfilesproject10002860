@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadercender",
+        "uuid": 23383360,
+        "checksum": "c936yfh"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
